@@ -1,0 +1,218 @@
+[
+  {
+    "phonological_system": "輔音",
+    "sound": "b",
+    "activity": "single",
+    "available_examples": 10,
+    "selected_examples": 10,
+    "image_format": "jpg",
+    "source_page": "https://app.speakalongcuhk.com/tc/scontent/b/single"
+  },
+  {
+    "phonological_system": "輔音",
+    "sound": "d",
+    "activity": "single",
+    "available_examples": 10,
+    "selected_examples": 10,
+    "image_format": "jpg",
+    "source_page": "https://app.speakalongcuhk.com/tc/scontent/d/single"
+  },
+  {
+    "phonological_system": "輔音",
+    "sound": "g",
+    "activity": "single",
+    "available_examples": 10,
+    "selected_examples": 10,
+    "image_format": "jpg",
+    "source_page": "https://app.speakalongcuhk.com/tc/scontent/g/single"
+  },
+  {
+    "phonological_system": "輔音",
+    "sound": "gw",
+    "activity": "single",
+    "available_examples": 10,
+    "selected_examples": 10,
+    "image_format": "jpg",
+    "source_page": "https://app.speakalongcuhk.com/tc/scontent/gw/single"
+  },
+  {
+    "phonological_system": "輔音",
+    "sound": "p",
+    "activity": "single",
+    "available_examples": 10,
+    "selected_examples": 10,
+    "image_format": "jpg",
+    "source_page": "https://app.speakalongcuhk.com/tc/scontent/p/single"
+  },
+  {
+    "phonological_system": "輔音",
+    "sound": "t",
+    "activity": "single",
+    "available_examples": 10,
+    "selected_examples": 10,
+    "image_format": "jpg",
+    "source_page": "https://app.speakalongcuhk.com/tc/scontent/t/single"
+  },
+  {
+    "phonological_system": "輔音",
+    "sound": "k",
+    "activity": "single",
+    "available_examples": 10,
+    "selected_examples": 10,
+    "image_format": "jpg",
+    "source_page": "https://app.speakalongcuhk.com/tc/scontent/k/single"
+  },
+  {
+    "phonological_system": "輔音",
+    "sound": "kw",
+    "activity": "single",
+    "available_examples": 10,
+    "selected_examples": 10,
+    "image_format": "jpg",
+    "source_page": "https://app.speakalongcuhk.com/tc/scontent/kw/single"
+  },
+  {
+    "phonological_system": "輔音",
+    "sound": "m",
+    "activity": "single",
+    "available_examples": 10,
+    "selected_examples": 10,
+    "image_format": "jpg",
+    "source_page": "https://app.speakalongcuhk.com/tc/scontent/m/single"
+  },
+  {
+    "phonological_system": "輔音",
+    "sound": "n",
+    "activity": "single",
+    "available_examples": 10,
+    "selected_examples": 10,
+    "image_format": "jpg",
+    "source_page": "https://app.speakalongcuhk.com/tc/scontent/n/single"
+  },
+  {
+    "phonological_system": "輔音",
+    "sound": "ng",
+    "activity": "single",
+    "available_examples": 10,
+    "selected_examples": 10,
+    "image_format": "jpg",
+    "source_page": "https://app.speakalongcuhk.com/tc/scontent/ng/single"
+  },
+  {
+    "phonological_system": "輔音",
+    "sound": "f",
+    "activity": "single",
+    "available_examples": 10,
+    "selected_examples": 10,
+    "image_format": "jpg",
+    "source_page": "https://app.speakalongcuhk.com/tc/scontent/f/single"
+  },
+  {
+    "phonological_system": "輔音",
+    "sound": "h",
+    "activity": "single",
+    "available_examples": 15,
+    "selected_examples": 10,
+    "image_format": "jpg",
+    "source_page": "https://app.speakalongcuhk.com/tc/scontent/h/single"
+  },
+  {
+    "phonological_system": "輔音",
+    "sound": "j",
+    "activity": "single",
+    "available_examples": 10,
+    "selected_examples": 10,
+    "image_format": "jpg",
+    "source_page": "https://app.speakalongcuhk.com/tc/scontent/j/single"
+  },
+  {
+    "phonological_system": "輔音",
+    "sound": "l",
+    "activity": "single",
+    "available_examples": 10,
+    "selected_examples": 10,
+    "image_format": "jpg",
+    "source_page": "https://app.speakalongcuhk.com/tc/scontent/l/single"
+  },
+  {
+    "phonological_system": "輔音",
+    "sound": "z",
+    "activity": "single",
+    "available_examples": 10,
+    "selected_examples": 10,
+    "image_format": "jpg",
+    "source_page": "https://app.speakalongcuhk.com/tc/scontent/z/single"
+  },
+  {
+    "phonological_system": "輔音",
+    "sound": "c",
+    "activity": "single",
+    "available_examples": 15,
+    "selected_examples": 10,
+    "image_format": "jpg",
+    "source_page": "https://app.speakalongcuhk.com/tc/scontent/c/single"
+  },
+  {
+    "phonological_system": "輔音",
+    "sound": "s",
+    "activity": "single",
+    "available_examples": 10,
+    "selected_examples": 10,
+    "image_format": "jpg",
+    "source_page": "https://app.speakalongcuhk.com/tc/scontent/s/single"
+  },
+  {
+    "phonological_system": "尾韻",
+    "sound": "-p",
+    "activity": "single",
+    "available_examples": 10,
+    "selected_examples": 10,
+    "image_format": "jpg",
+    "source_page": "https://app.speakalongcuhk.com/tc/scontent/-p/single"
+  },
+  {
+    "phonological_system": "尾韻",
+    "sound": "-t",
+    "activity": "single",
+    "available_examples": 10,
+    "selected_examples": 10,
+    "image_format": "jpg",
+    "source_page": "https://app.speakalongcuhk.com/tc/scontent/-t/single"
+  },
+  {
+    "phonological_system": "尾韻",
+    "sound": "-k",
+    "activity": "single",
+    "available_examples": 10,
+    "selected_examples": 10,
+    "image_format": "jpg",
+    "source_page": "https://app.speakalongcuhk.com/tc/scontent/-k/single"
+  },
+  {
+    "phonological_system": "尾韻",
+    "sound": "-m",
+    "activity": "single",
+    "available_examples": 10,
+    "selected_examples": 10,
+    "image_format": "jpg",
+    "source_page": "https://app.speakalongcuhk.com/tc/scontent/-m/single"
+  },
+  {
+    "phonological_system": "尾韻",
+    "sound": "-n",
+    "activity": "single",
+    "available_examples": 10,
+    "selected_examples": 10,
+    "image_format": "jpg",
+    "source_page": "https://app.speakalongcuhk.com/tc/scontent/-n/single"
+  },
+  {
+    "phonological_system": "尾韻",
+    "sound": "-ng",
+    "activity": "single",
+    "available_examples": 10,
+    "selected_examples": 10,
+    "image_format": "jpg",
+    "source_page": "https://app.speakalongcuhk.com/tc/scontent/-ng/single"
+  }
+]

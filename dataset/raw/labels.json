@@ -1,0 +1,1207 @@
+{
+  "b:single:1": {
+    "character": "餅",
+    "word": "",
+    "notes": ""
+  },
+  "b:single:2": {
+    "character": "波",
+    "word": "",
+    "notes": ""
+  },
+  "b:single:3": {
+    "character": "筆",
+    "word": "",
+    "notes": ""
+  },
+  "b:single:4": {
+    "character": "鼻",
+    "word": "",
+    "notes": ""
+  },
+  "b:single:5": {
+    "character": "病",
+    "word": "",
+    "notes": ""
+  },
+  "b:single:6": {
+    "character": "簿",
+    "word": "",
+    "notes": ""
+  },
+  "b:single:7": {
+    "character": "逼",
+    "word": "",
+    "notes": ""
+  },
+  "b:single:8": {
+    "character": "包",
+    "word": "",
+    "notes": ""
+  },
+  "b:single:9": {
+    "character": "冰",
+    "word": "",
+    "notes": ""
+  },
+  "b:single:10": {
+    "character": "八",
+    "word": "",
+    "notes": ""
+  },
+  "d:single:1": {
+    "character": "碟",
+    "word": "",
+    "notes": ""
+  },
+  "d:single:2": {
+    "character": "多",
+    "word": "",
+    "notes": ""
+  },
+  "d:single:3": {
+    "character": "蛋",
+    "word": "",
+    "notes": ""
+  },
+  "d:single:4": {
+    "character": "豆",
+    "word": "",
+    "notes": ""
+  },
+  "d:single:5": {
+    "character": "大",
+    "word": "",
+    "notes": ""
+  },
+  "d:single:6": {
+    "character": "彈",
+    "word": "",
+    "notes": ""
+  },
+  "d:single:7": {
+    "character": "笛",
+    "word": "",
+    "notes": ""
+  },
+  "d:single:8": {
+    "character": "袋",
+    "word": "",
+    "notes": ""
+  },
+  "d:single:9": {
+    "character": "刀",
+    "word": "",
+    "notes": ""
+  },
+  "d:single:10": {
+    "character": "跌",
+    "word": "",
+    "notes": ""
+  },
+  "g:single:1": {
+    "character": "角",
+    "word": "",
+    "notes": ""
+  },
+  "g:single:2": {
+    "character": "腳",
+    "word": "",
+    "notes": ""
+  },
+  "g:single:3": {
+    "character": "鼓",
+    "word": "",
+    "notes": ""
+  },
+  "g:single:4": {
+    "character": "街",
+    "word": "",
+    "notes": ""
+  },
+  "g:single:5": {
+    "character": "菇",
+    "word": "",
+    "notes": ""
+  },
+  "g:single:6": {
+    "character": "高",
+    "word": "",
+    "notes": ""
+  },
+  "g:single:7": {
+    "character": "九",
+    "word": "",
+    "notes": ""
+  },
+  "g:single:8": {
+    "character": "叫",
+    "word": "",
+    "notes": ""
+  },
+  "g:single:9": {
+    "character": "蓋",
+    "word": "",
+    "notes": ""
+  },
+  "g:single:10": {
+    "character": "攰",
+    "word": "",
+    "notes": ""
+  },
+  "gw:single:1": {
+    "character": "瓜",
+    "word": "",
+    "notes": ""
+  },
+  "gw:single:2": {
+    "character": "掘",
+    "word": "",
+    "notes": ""
+  },
+  "gw:single:3": {
+    "character": "龜",
+    "word": "",
+    "notes": ""
+  },
+  "gw:single:4": {
+    "character": "跪",
+    "word": "",
+    "notes": ""
+  },
+  "gw:single:5": {
+    "character": "櫃",
+    "word": "",
+    "notes": ""
+  },
+  "gw:single:6": {
+    "character": "摑",
+    "word": "",
+    "notes": ""
+  },
+  "gw:single:7": {
+    "character": "罐",
+    "word": "",
+    "notes": ""
+  },
+  "gw:single:8": {
+    "character": "棍",
+    "word": "",
+    "notes": ""
+  },
+  "gw:single:9": {
+    "character": "骨",
+    "word": "",
+    "notes": ""
+  },
+  "gw:single:10": {
+    "character": "光",
+    "word": "",
+    "notes": ""
+  },
+  "p:single:1": {
+    "character": "怕",
+    "word": "",
+    "notes": ""
+  },
+  "p:single:2": {
+    "character": "趴",
+    "word": "",
+    "notes": ""
+  },
+  "p:single:3": {
+    "character": "抱",
+    "word": "",
+    "notes": ""
+  },
+  "p:single:4": {
+    "character": "被",
+    "word": "",
+    "notes": ""
+  },
+  "p:single:5": {
+    "character": "爬",
+    "word": "",
+    "notes": ""
+  },
+  "p:single:6": {
+    "character": "跑",
+    "word": "",
+    "notes": ""
+  },
+  "p:single:7": {
+    "character": "豹",
+    "word": "",
+    "notes": ""
+  },
+  "p:single:8": {
+    "character": "派",
+    "word": "",
+    "notes": ""
+  },
+  "p:single:9": {
+    "character": "盆",
+    "word": "",
+    "notes": ""
+  },
+  "p:single:10": {
+    "character": "拋",
+    "word": "",
+    "notes": ""
+  },
+  "t:single:1": {
+    "character": "呔",
+    "word": "",
+    "notes": ""
+  },
+  "t:single:2": {
+    "character": "梯",
+    "word": "",
+    "notes": ""
+  },
+  "t:single:3": {
+    "character": "跳",
+    "word": "",
+    "notes": ""
+  },
+  "t:single:4": {
+    "character": "枱",
+    "word": "",
+    "notes": ""
+  },
+  "t:single:5": {
+    "character": "兔",
+    "word": "",
+    "notes": ""
+  },
+  "t:single:6": {
+    "character": "推",
+    "word": "",
+    "notes": ""
+  },
+  "t:single:7": {
+    "character": "踢",
+    "word": "",
+    "notes": ""
+  },
+  "t:single:8": {
+    "character": "天",
+    "word": "",
+    "notes": ""
+  },
+  "t:single:9": {
+    "character": "糖",
+    "word": "",
+    "notes": ""
+  },
+  "t:single:10": {
+    "character": "剔",
+    "word": "",
+    "notes": ""
+  },
+  "k:single:1": {
+    "character": "騎",
+    "word": "",
+    "notes": ""
+  },
+  "k:single:2": {
+    "character": "溪",
+    "word": "",
+    "notes": ""
+  },
+  "k:single:3": {
+    "character": "箍",
+    "word": "",
+    "notes": ""
+  },
+  "k:single:4": {
+    "character": "棋",
+    "word": "",
+    "notes": ""
+  },
+  "k:single:5": {
+    "character": "扣",
+    "word": "",
+    "notes": ""
+  },
+  "k:single:6": {
+    "character": "拳",
+    "word": "",
+    "notes": ""
+  },
+  "k:single:7": {
+    "character": "企",
+    "word": "",
+    "notes": ""
+  },
+  "k:single:8": {
+    "character": "旗",
+    "word": "",
+    "notes": ""
+  },
+  "k:single:9": {
+    "character": "橋",
+    "word": "",
+    "notes": ""
+  },
+  "k:single:10": {
+    "character": "傾",
+    "word": "",
+    "notes": ""
+  },
+  "kw:single:1": {
+    "character": "跨",
+    "word": "",
+    "notes": ""
+  },
+  "kw:single:2": {
+    "character": "框",
+    "word": "",
+    "notes": ""
+  },
+  "kw:single:3": {
+    "character": "裙",
+    "word": "",
+    "notes": ""
+  },
+  "m:single:1": {
+    "character": "馬",
+    "word": "",
+    "notes": ""
+  },
+  "m:single:2": {
+    "character": "摸",
+    "word": "",
+    "notes": ""
+  },
+  "m:single:3": {
+    "character": "買",
+    "word": "",
+    "notes": ""
+  },
+  "m:single:4": {
+    "character": "貓",
+    "word": "",
+    "notes": ""
+  },
+  "m:single:5": {
+    "character": "帽",
+    "word": "",
+    "notes": ""
+  },
+  "m:single:6": {
+    "character": "門",
+    "word": "",
+    "notes": ""
+  },
+  "m:single:7": {
+    "character": "尾",
+    "word": "",
+    "notes": ""
+  },
+  "m:single:8": {
+    "character": "襪",
+    "word": "",
+    "notes": ""
+  },
+  "m:single:9": {
+    "character": "蚊",
+    "word": "",
+    "notes": ""
+  },
+  "m:single:10": {
+    "character": "麵",
+    "word": "",
+    "notes": ""
+  },
+  "n:single:1": {
+    "character": "你",
+    "word": "",
+    "notes": ""
+  },
+  "n:single:2": {
+    "character": "泥",
+    "word": "",
+    "notes": ""
+  },
+  "n:single:3": {
+    "character": "鬧",
+    "word": "",
+    "notes": ""
+  },
+  "n:single:4": {
+    "character": "尿",
+    "word": "",
+    "notes": ""
+  },
+  "n:single:5": {
+    "character": "奶",
+    "word": "",
+    "notes": ""
+  },
+  "n:single:6": {
+    "character": "諗",
+    "word": "",
+    "notes": ""
+  },
+  "n:single:7": {
+    "character": "鈕",
+    "word": "",
+    "notes": ""
+  },
+  "n:single:8": {
+    "character": "難",
+    "word": "",
+    "notes": ""
+  },
+  "n:single:9": {
+    "character": "嬲",
+    "word": "",
+    "notes": ""
+  },
+  "n:single:10": {
+    "character": "腦",
+    "word": "",
+    "notes": ""
+  },
+  "ng:single:1": {
+    "character": "牙",
+    "word": "",
+    "notes": ""
+  },
+  "ng:single:2": {
+    "character": "鵝",
+    "word": "",
+    "notes": ""
+  },
+  "ng:single:3": {
+    "character": "矮",
+    "word": "",
+    "notes": ""
+  },
+  "ng:single:4": {
+    "character": "咬",
+    "word": "",
+    "notes": ""
+  },
+  "ng:single:5": {
+    "character": "蟻",
+    "word": "",
+    "notes": ""
+  },
+  "ng:single:6": {
+    "character": "牛",
+    "word": "",
+    "notes": ""
+  },
+  "ng:single:7": {
+    "character": "眼",
+    "word": "",
+    "notes": ""
+  },
+  "ng:single:8": {
+    "character": "鴨",
+    "word": "",
+    "notes": ""
+  },
+  "ng:single:9": {
+    "character": "岩",
+    "word": "",
+    "notes": ""
+  },
+  "ng:single:10": {
+    "character": "愛",
+    "word": "",
+    "notes": ""
+  },
+  "f:single:1": {
+    "character": "",
+    "word": "F",
+    "notes": "Source artwork depicts a Latin letter."
+  },
+  "f:single:2": {
+    "character": "花",
+    "word": "",
+    "notes": ""
+  },
+  "f:single:3": {
+    "character": "啡",
+    "word": "",
+    "notes": ""
+  },
+  "f:single:4": {
+    "character": "火",
+    "word": "",
+    "notes": ""
+  },
+  "f:single:5": {
+    "character": "褲",
+    "word": "",
+    "notes": ""
+  },
+  "f:single:6": {
+    "character": "灰",
+    "word": "",
+    "notes": ""
+  },
+  "f:single:7": {
+    "character": "肥",
+    "word": "",
+    "notes": ""
+  },
+  "f:single:8": {
+    "character": "浮",
+    "word": "",
+    "notes": ""
+  },
+  "f:single:9": {
+    "character": "吠",
+    "word": "",
+    "notes": ""
+  },
+  "f:single:10": {
+    "character": "飛",
+    "word": "",
+    "notes": ""
+  },
+  "h:single:1": {
+    "character": "口",
+    "word": "",
+    "notes": ""
+  },
+  "h:single:2": {
+    "character": "蝦",
+    "word": "",
+    "notes": ""
+  },
+  "h:single:3": {
+    "character": "河",
+    "word": "",
+    "notes": ""
+  },
+  "h:single:4": {
+    "character": "輕",
+    "word": "",
+    "notes": ""
+  },
+  "h:single:5": {
+    "character": "汽",
+    "word": "",
+    "notes": ""
+  },
+  "h:single:6": {
+    "character": "敲",
+    "word": "",
+    "notes": ""
+  },
+  "h:single:7": {
+    "character": "猴",
+    "word": "",
+    "notes": ""
+  },
+  "h:single:8": {
+    "character": "海",
+    "word": "",
+    "notes": ""
+  },
+  "h:single:9": {
+    "character": "好",
+    "word": "",
+    "notes": ""
+  },
+  "h:single:10": {
+    "character": "鞋",
+    "word": "",
+    "notes": ""
+  },
+  "j:single:1": {
+    "character": "耳",
+    "word": "",
+    "notes": ""
+  },
+  "j:single:2": {
+    "character": "藥",
+    "word": "",
+    "notes": ""
+  },
+  "j:single:3": {
+    "character": "魚",
+    "word": "",
+    "notes": ""
+  },
+  "j:single:4": {
+    "character": "葉",
+    "word": "",
+    "notes": ""
+  },
+  "j:single:5": {
+    "character": "二",
+    "word": "",
+    "notes": ""
+  },
+  "j:single:6": {
+    "character": "煙",
+    "word": "",
+    "notes": ""
+  },
+  "j:single:7": {
+    "character": "影",
+    "word": "",
+    "notes": ""
+  },
+  "j:single:8": {
+    "character": "羊",
+    "word": "",
+    "notes": ""
+  },
+  "j:single:9": {
+    "character": "鷹",
+    "word": "",
+    "notes": ""
+  },
+  "j:single:10": {
+    "character": "熱",
+    "word": "",
+    "notes": ""
+  },
+  "l:single:1": {
+    "character": "路",
+    "word": "",
+    "notes": ""
+  },
+  "l:single:2": {
+    "character": "六",
+    "word": "",
+    "notes": ""
+  },
+  "l:single:3": {
+    "character": "梨",
+    "word": "",
+    "notes": ""
+  },
+  "l:single:4": {
+    "character": "老",
+    "word": "",
+    "notes": ""
+  },
+  "l:single:5": {
+    "character": "褸",
+    "word": "",
+    "notes": ""
+  },
+  "l:single:6": {
+    "character": "鹿",
+    "word": "",
+    "notes": ""
+  },
+  "l:single:7": {
+    "character": "鏈",
+    "word": "",
+    "notes": ""
+  },
+  "l:single:8": {
+    "character": "領",
+    "word": "",
+    "notes": ""
+  },
+  "l:single:9": {
+    "character": "狼",
+    "word": "",
+    "notes": ""
+  },
+  "l:single:10": {
+    "character": "亂",
+    "word": "",
+    "notes": ""
+  },
+  "z:single:1": {
+    "character": "紙",
+    "word": "",
+    "notes": ""
+  },
+  "z:single:2": {
+    "character": "樽",
+    "word": "",
+    "notes": ""
+  },
+  "z:single:3": {
+    "character": "遮",
+    "word": "",
+    "notes": ""
+  },
+  "z:single:4": {
+    "character": "豬",
+    "word": "",
+    "notes": ""
+  },
+  "z:single:5": {
+    "character": "獎",
+    "word": "",
+    "notes": ""
+  },
+  "z:single:6": {
+    "character": "追",
+    "word": "",
+    "notes": ""
+  },
+  "z:single:7": {
+    "character": "蕉",
+    "word": "",
+    "notes": ""
+  },
+  "z:single:8": {
+    "character": "嘴",
+    "word": "",
+    "notes": ""
+  },
+  "z:single:9": {
+    "character": "剪",
+    "word": "",
+    "notes": ""
+  },
+  "z:single:10": {
+    "character": "接",
+    "word": "",
+    "notes": ""
+  },
+  "c:single:1": {
+    "character": "叉",
+    "word": "",
+    "notes": ""
+  },
+  "c:single:2": {
+    "character": "車",
+    "word": "",
+    "notes": ""
+  },
+  "c:single:3": {
+    "character": "坐",
+    "word": "",
+    "notes": ""
+  },
+  "c:single:4": {
+    "character": "臭",
+    "word": "",
+    "notes": ""
+  },
+  "c:single:5": {
+    "character": "草",
+    "word": "",
+    "notes": ""
+  },
+  "c:single:6": {
+    "character": "菜",
+    "word": "",
+    "notes": ""
+  },
+  "c:single:7": {
+    "character": "猜",
+    "word": "",
+    "notes": ""
+  },
+  "c:single:8": {
+    "character": "床",
+    "word": "",
+    "notes": ""
+  },
+  "c:single:9": {
+    "character": "蟲",
+    "word": "",
+    "notes": ""
+  },
+  "c:single:10": {
+    "character": "鏟",
+    "word": "",
+    "notes": ""
+  },
+  "s:single:1": {
+    "character": "",
+    "word": "S",
+    "notes": "Source artwork depicts a Latin letter."
+  },
+  "s:single:2": {
+    "character": "沙",
+    "word": "",
+    "notes": ""
+  },
+  "s:single:3": {
+    "character": "蛇",
+    "word": "",
+    "notes": ""
+  },
+  "s:single:4": {
+    "character": "",
+    "word": "C",
+    "notes": "Source artwork depicts a Latin letter."
+  },
+  "s:single:5": {
+    "character": "梳",
+    "word": "",
+    "notes": ""
+  },
+  "s:single:6": {
+    "character": "書",
+    "word": "",
+    "notes": ""
+  },
+  "s:single:7": {
+    "character": "水",
+    "word": "",
+    "notes": ""
+  },
+  "s:single:8": {
+    "character": "手",
+    "word": "",
+    "notes": ""
+  },
+  "s:single:9": {
+    "character": "四",
+    "word": "",
+    "notes": ""
+  },
+  "s:single:10": {
+    "character": "上",
+    "word": "",
+    "notes": ""
+  },
+  "-p:single:1": {
+    "character": "碟",
+    "word": "",
+    "notes": ""
+  },
+  "-p:single:2": {
+    "character": "葉",
+    "word": "",
+    "notes": ""
+  },
+  "-p:single:3": {
+    "character": "業",
+    "word": "",
+    "notes": ""
+  },
+  "-p:single:4": {
+    "character": "鴨",
+    "word": "",
+    "notes": ""
+  },
+  "-p:single:5": {
+    "character": "喼",
+    "word": "",
+    "notes": ""
+  },
+  "-p:single:6": {
+    "character": "盒",
+    "word": "",
+    "notes": ""
+  },
+  "-p:single:7": {
+    "character": "塔",
+    "word": "",
+    "notes": ""
+  },
+  "-p:single:8": {
+    "character": "十",
+    "word": "",
+    "notes": ""
+  },
+  "-p:single:9": {
+    "character": "鴿",
+    "word": "",
+    "notes": ""
+  },
+  "-p:single:10": {
+    "character": "汁",
+    "word": "",
+    "notes": ""
+  },
+  "-t:single:1": {
+    "character": "八",
+    "word": "",
+    "notes": ""
+  },
+  "-t:single:2": {
+    "character": "一",
+    "word": "",
+    "notes": ""
+  },
+  "-t:single:3": {
+    "character": "筆",
+    "word": "",
+    "notes": ""
+  },
+  "-t:single:4": {
+    "character": "咳",
+    "word": "",
+    "notes": ""
+  },
+  "-t:single:5": {
+    "character": "襪",
+    "word": "",
+    "notes": ""
+  },
+  "-t:single:6": {
+    "character": "掘",
+    "word": "",
+    "notes": ""
+  },
+  "-t:single:7": {
+    "character": "切",
+    "word": "",
+    "notes": ""
+  },
+  "-t:single:8": {
+    "character": "熱",
+    "word": "",
+    "notes": ""
+  },
+  "-t:single:9": {
+    "character": "跌",
+    "word": "",
+    "notes": ""
+  },
+  "-t:single:10": {
+    "character": "雪",
+    "word": "",
+    "notes": ""
+  },
+  "-k:single:1": {
+    "character": "壁",
+    "word": "",
+    "notes": ""
+  },
+  "-k:single:2": {
+    "character": "賊",
+    "word": "",
+    "notes": ""
+  },
+  "-k:single:3": {
+    "character": "食",
+    "word": "",
+    "notes": ""
+  },
+  "-k:single:4": {
+    "character": "曲",
+    "word": "",
+    "notes": ""
+  },
+  "-k:single:5": {
+    "character": "鹿",
+    "word": "",
+    "notes": ""
+  },
+  "-k:single:6": {
+    "character": "木",
+    "word": "",
+    "notes": ""
+  },
+  "-k:single:7": {
+    "character": "竹",
+    "word": "",
+    "notes": ""
+  },
+  "-k:single:8": {
+    "character": "綠",
+    "word": "",
+    "notes": ""
+  },
+  "-k:single:9": {
+    "character": "錫",
+    "word": "",
+    "notes": ""
+  },
+  "-k:single:10": {
+    "character": "腳",
+    "word": "",
+    "notes": ""
+  },
+  "-m:single:1": {
+    "character": "點",
+    "word": "",
+    "notes": ""
+  },
+  "-m:single:2": {
+    "character": "喊",
+    "word": "",
+    "notes": ""
+  },
+  "-m:single:3": {
+    "character": "藍",
+    "word": "",
+    "notes": ""
+  },
+  "-m:single:4": {
+    "character": "啱",
+    "word": "",
+    "notes": ""
+  },
+  "-m:single:5": {
+    "character": "心",
+    "word": "",
+    "notes": ""
+  },
+  "-m:single:6": {
+    "character": "尖",
+    "word": "",
+    "notes": ""
+  },
+  "-m:single:7": {
+    "character": "針",
+    "word": "",
+    "notes": ""
+  },
+  "-m:single:8": {
+    "character": "掩",
+    "word": "",
+    "notes": ""
+  },
+  "-m:single:9": {
+    "character": "舔",
+    "word": "",
+    "notes": ""
+  },
+  "-m:single:10": {
+    "character": "三",
+    "word": "",
+    "notes": ""
+  },
+  "-n:single:1": {
+    "character": "門",
+    "word": "",
+    "notes": ""
+  },
+  "-n:single:2": {
+    "character": "碗",
+    "word": "",
+    "notes": ""
+  },
+  "-n:single:3": {
+    "character": "天",
+    "word": "",
+    "notes": ""
+  },
+  "-n:single:4": {
+    "character": "蛋",
+    "word": "",
+    "notes": ""
+  },
+  "-n:single:5": {
+    "character": "飯",
+    "word": "",
+    "notes": ""
+  },
+  "-n:single:6": {
+    "character": "信",
+    "word": "",
+    "notes": ""
+  },
+  "-n:single:7": {
+    "character": "盆",
+    "word": "",
+    "notes": ""
+  },
+  "-n:single:8": {
+    "character": "鏟",
+    "word": "",
+    "notes": ""
+  },
+  "-n:single:9": {
+    "character": "眼",
+    "word": "",
+    "notes": ""
+  },
+  "-n:single:10": {
+    "character": "板",
+    "word": "",
+    "notes": ""
+  },
+  "-ng:single:1": {
+    "character": "燈",
+    "word": "",
+    "notes": ""
+  },
+  "-ng:single:2": {
+    "character": "床",
+    "word": "",
+    "notes": ""
+  },
+  "-ng:single:3": {
+    "character": "鏡",
+    "word": "",
+    "notes": ""
+  },
+  "-ng:single:4": {
+    "character": "窗",
+    "word": "",
+    "notes": ""
+  },
+  "-ng:single:5": {
+    "character": "釘",
+    "word": "",
+    "notes": ""
+  },
+  "-ng:single:6": {
+    "character": "橙",
+    "word": "",
+    "notes": ""
+  },
+  "-ng:single:7": {
+    "character": "星",
+    "word": "",
+    "notes": ""
+  },
+  "-ng:single:8": {
+    "character": "餅",
+    "word": "",
+    "notes": ""
+  },
+  "-ng:single:9": {
+    "character": "羊",
+    "word": "",
+    "notes": ""
+  },
+  "-ng:single:10": {
+    "character": "冰",
+    "word": "",
+    "notes": ""
+  },
+  "gw:word:1": {
+    "character": "",
+    "word": "瓜子",
+    "notes": "Word-activity replacement selected because configured single media were unavailable or duplicated."
+  },
+  "kw:word:1": {
+    "character": "",
+    "word": "頭盔",
+    "notes": "Word-activity replacement selected because configured single media were unavailable or duplicated."
+  },
+  "kw:word:2": {
+    "character": "",
+    "word": "短裙",
+    "notes": "Word-activity replacement selected because configured single media were unavailable or duplicated."
+  },
+  "kw:word:3": {
+    "character": "",
+    "word": "圓規",
+    "notes": "Word-activity replacement selected because configured single media were unavailable or duplicated."
+  },
+  "kw:word:4": {
+    "character": "",
+    "word": "困難",
+    "notes": "Word-activity replacement selected because configured single media were unavailable or duplicated."
+  },
+  "kw:word:5": {
+    "character": "",
+    "word": "葵扇",
+    "notes": "Word-activity replacement selected because configured single media were unavailable or duplicated."
+  },
+  "kw:word:6": {
+    "character": "",
+    "word": "昆蟲",
+    "notes": "Word-activity replacement selected because configured single media were unavailable or duplicated."
+  },
+  "kw:word:7": {
+    "character": "",
+    "word": "群眾",
+    "notes": "Word-activity replacement selected because configured single media were unavailable or duplicated."
+  }
+}

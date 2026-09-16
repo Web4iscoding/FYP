@@ -1,0 +1,2 @@
+file_a,file_b,sha256,reason,source_information
+audio/consonants/gw/gw_004.mp3,audio/consonants/gw/gw_005.mp3,27e6b2c80451a79927629758603a6ce2d99b7611ad75e6967c9250ccbb4e2039,exact duplicate audio bytes,"{'source_id_a': 'sound:gw:single:4', 'source_url_a': 'https://app.speakalongcuhk.com/assets/voices/gw/1-4.mp3', 'source_id_b': 'sound:gw:single:5', 'source_url_b': 'https://app.speakalongcuhk.com/assets/voices/gw/1-5.mp3'}"

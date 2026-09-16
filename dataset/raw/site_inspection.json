@@ -1,0 +1,699 @@
+{
+  "inspected_at_utc": "2026-09-14T15:32:09.810283+00:00",
+  "source_home": "https://app.speakalongcuhk.com/tc/",
+  "categories": [
+    {
+      "name": "輔音",
+      "sounds": [
+        {
+          "sound": "b",
+          "url": "https://app.speakalongcuhk.com/tc/sound/b"
+        },
+        {
+          "sound": "d",
+          "url": "https://app.speakalongcuhk.com/tc/sound/d"
+        },
+        {
+          "sound": "g",
+          "url": "https://app.speakalongcuhk.com/tc/sound/g"
+        },
+        {
+          "sound": "gw",
+          "url": "https://app.speakalongcuhk.com/tc/sound/gw"
+        },
+        {
+          "sound": "p",
+          "url": "https://app.speakalongcuhk.com/tc/sound/p"
+        },
+        {
+          "sound": "t",
+          "url": "https://app.speakalongcuhk.com/tc/sound/t"
+        },
+        {
+          "sound": "k",
+          "url": "https://app.speakalongcuhk.com/tc/sound/k"
+        },
+        {
+          "sound": "kw",
+          "url": "https://app.speakalongcuhk.com/tc/sound/kw"
+        },
+        {
+          "sound": "m",
+          "url": "https://app.speakalongcuhk.com/tc/sound/m"
+        },
+        {
+          "sound": "n",
+          "url": "https://app.speakalongcuhk.com/tc/sound/n"
+        },
+        {
+          "sound": "ng",
+          "url": "https://app.speakalongcuhk.com/tc/sound/ng"
+        },
+        {
+          "sound": "f",
+          "url": "https://app.speakalongcuhk.com/tc/sound/f"
+        },
+        {
+          "sound": "h",
+          "url": "https://app.speakalongcuhk.com/tc/sound/h"
+        },
+        {
+          "sound": "j",
+          "url": "https://app.speakalongcuhk.com/tc/sound/j"
+        },
+        {
+          "sound": "l",
+          "url": "https://app.speakalongcuhk.com/tc/sound/l"
+        },
+        {
+          "sound": "z",
+          "url": "https://app.speakalongcuhk.com/tc/sound/z"
+        },
+        {
+          "sound": "c",
+          "url": "https://app.speakalongcuhk.com/tc/sound/c"
+        },
+        {
+          "sound": "s",
+          "url": "https://app.speakalongcuhk.com/tc/sound/s"
+        }
+      ]
+    },
+    {
+      "name": "尾韻",
+      "sounds": [
+        {
+          "sound": "-p",
+          "url": "https://app.speakalongcuhk.com/tc/sound/-p"
+        },
+        {
+          "sound": "-t",
+          "url": "https://app.speakalongcuhk.com/tc/sound/-t"
+        },
+        {
+          "sound": "-k",
+          "url": "https://app.speakalongcuhk.com/tc/sound/-k"
+        },
+        {
+          "sound": "-m",
+          "url": "https://app.speakalongcuhk.com/tc/sound/-m"
+        },
+        {
+          "sound": "-n",
+          "url": "https://app.speakalongcuhk.com/tc/sound/-n"
+        },
+        {
+          "sound": "-ng",
+          "url": "https://app.speakalongcuhk.com/tc/sound/-ng"
+        }
+      ]
+    }
+  ],
+  "books": [
+    {
+      "title": "物歸原主",
+      "url": "https://app.speakalongcuhk.com/tc/bcontent/1"
+    },
+    {
+      "title": "媽媽的幫手",
+      "url": "https://app.speakalongcuhk.com/tc/bcontent/2"
+    },
+    {
+      "title": "超市好節目",
+      "url": "https://app.speakalongcuhk.com/tc/bcontent/3"
+    },
+    {
+      "title": "媽媽的生日禮物",
+      "url": "https://app.speakalongcuhk.com/tc/bcontent/4"
+    },
+    {
+      "title": "到公園去散步",
+      "url": "https://app.speakalongcuhk.com/tc/bcontent/5"
+    },
+    {
+      "title": "一個字的魔力",
+      "url": "https://app.speakalongcuhk.com/tc/bcontent/6"
+    },
+    {
+      "title": "白日夢",
+      "url": "https://app.speakalongcuhk.com/tc/bcontent/7"
+    },
+    {
+      "title": "遊戲專家",
+      "url": "https://app.speakalongcuhk.com/tc/bcontent/8"
+    },
+    {
+      "title": "糖果雨",
+      "url": "https://app.speakalongcuhk.com/tc/bcontent/9"
+    },
+    {
+      "title": "老師變成木乃伊",
+      "url": "https://app.speakalongcuhk.com/tc/bcontent/10"
+    }
+  ],
+  "activities_by_sound": {
+    "b": [
+      {
+        "name": "intro",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/b/intro"
+      },
+      {
+        "name": "single",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/b/single"
+      },
+      {
+        "name": "word",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/b/word"
+      },
+      {
+        "name": "sentence",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/b/sentence"
+      },
+      {
+        "name": "story",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/b/story"
+      }
+    ],
+    "d": [
+      {
+        "name": "intro",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/d/intro"
+      },
+      {
+        "name": "single",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/d/single"
+      },
+      {
+        "name": "word",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/d/word"
+      },
+      {
+        "name": "sentence",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/d/sentence"
+      },
+      {
+        "name": "story",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/d/story"
+      }
+    ],
+    "g": [
+      {
+        "name": "intro",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/g/intro"
+      },
+      {
+        "name": "single",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/g/single"
+      },
+      {
+        "name": "word",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/g/word"
+      },
+      {
+        "name": "sentence",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/g/sentence"
+      },
+      {
+        "name": "story",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/g/story"
+      }
+    ],
+    "gw": [
+      {
+        "name": "intro",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/gw/intro"
+      },
+      {
+        "name": "single",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/gw/single"
+      },
+      {
+        "name": "word",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/gw/word"
+      },
+      {
+        "name": "sentence",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/gw/sentence"
+      },
+      {
+        "name": "story",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/gw/story"
+      }
+    ],
+    "p": [
+      {
+        "name": "intro",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/p/intro"
+      },
+      {
+        "name": "single",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/p/single"
+      },
+      {
+        "name": "word",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/p/word"
+      },
+      {
+        "name": "sentence",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/p/sentence"
+      },
+      {
+        "name": "story",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/p/story"
+      }
+    ],
+    "t": [
+      {
+        "name": "intro",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/t/intro"
+      },
+      {
+        "name": "single",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/t/single"
+      },
+      {
+        "name": "word",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/t/word"
+      },
+      {
+        "name": "sentence",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/t/sentence"
+      },
+      {
+        "name": "story",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/t/story"
+      }
+    ],
+    "k": [
+      {
+        "name": "intro",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/k/intro"
+      },
+      {
+        "name": "single",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/k/single"
+      },
+      {
+        "name": "word",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/k/word"
+      },
+      {
+        "name": "sentence",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/k/sentence"
+      },
+      {
+        "name": "story",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/k/story"
+      }
+    ],
+    "kw": [
+      {
+        "name": "intro",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/kw/intro"
+      },
+      {
+        "name": "single",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/kw/single"
+      },
+      {
+        "name": "word",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/kw/word"
+      },
+      {
+        "name": "sentence",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/kw/sentence"
+      },
+      {
+        "name": "story",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/kw/story"
+      }
+    ],
+    "m": [
+      {
+        "name": "intro",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/m/intro"
+      },
+      {
+        "name": "single",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/m/single"
+      },
+      {
+        "name": "word",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/m/word"
+      },
+      {
+        "name": "sentence",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/m/sentence"
+      },
+      {
+        "name": "story",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/m/story"
+      }
+    ],
+    "n": [
+      {
+        "name": "intro",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/n/intro"
+      },
+      {
+        "name": "single",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/n/single"
+      },
+      {
+        "name": "word",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/n/word"
+      },
+      {
+        "name": "sentence",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/n/sentence"
+      },
+      {
+        "name": "story",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/n/story"
+      }
+    ],
+    "ng": [
+      {
+        "name": "intro",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/ng/intro"
+      },
+      {
+        "name": "single",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/ng/single"
+      },
+      {
+        "name": "word",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/ng/word"
+      },
+      {
+        "name": "sentence",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/ng/sentence"
+      },
+      {
+        "name": "story",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/ng/story"
+      }
+    ],
+    "f": [
+      {
+        "name": "intro",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/f/intro"
+      },
+      {
+        "name": "single",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/f/single"
+      },
+      {
+        "name": "word",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/f/word"
+      },
+      {
+        "name": "sentence",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/f/sentence"
+      },
+      {
+        "name": "story",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/f/story"
+      }
+    ],
+    "h": [
+      {
+        "name": "intro",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/h/intro"
+      },
+      {
+        "name": "single",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/h/single"
+      },
+      {
+        "name": "word",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/h/word"
+      },
+      {
+        "name": "sentence",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/h/sentence"
+      },
+      {
+        "name": "story",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/h/story"
+      }
+    ],
+    "j": [
+      {
+        "name": "intro",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/j/intro"
+      },
+      {
+        "name": "single",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/j/single"
+      },
+      {
+        "name": "word",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/j/word"
+      },
+      {
+        "name": "sentence",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/j/sentence"
+      },
+      {
+        "name": "story",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/j/story"
+      }
+    ],
+    "l": [
+      {
+        "name": "intro",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/l/intro"
+      },
+      {
+        "name": "single",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/l/single"
+      },
+      {
+        "name": "word",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/l/word"
+      },
+      {
+        "name": "sentence",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/l/sentence"
+      },
+      {
+        "name": "story",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/l/story"
+      }
+    ],
+    "z": [
+      {
+        "name": "intro",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/z/intro"
+      },
+      {
+        "name": "single",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/z/single"
+      },
+      {
+        "name": "word",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/z/word"
+      },
+      {
+        "name": "sentence",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/z/sentence"
+      },
+      {
+        "name": "story",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/z/story"
+      }
+    ],
+    "c": [
+      {
+        "name": "intro",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/c/intro"
+      },
+      {
+        "name": "single",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/c/single"
+      },
+      {
+        "name": "word",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/c/word"
+      },
+      {
+        "name": "sentence",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/c/sentence"
+      },
+      {
+        "name": "story",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/c/story"
+      }
+    ],
+    "s": [
+      {
+        "name": "intro",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/s/intro"
+      },
+      {
+        "name": "single",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/s/single"
+      },
+      {
+        "name": "word",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/s/word"
+      },
+      {
+        "name": "sentence",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/s/sentence"
+      },
+      {
+        "name": "story",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/s/story"
+      }
+    ],
+    "-p": [
+      {
+        "name": "intro",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/-p/intro"
+      },
+      {
+        "name": "single",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/-p/single"
+      },
+      {
+        "name": "word",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/-p/word"
+      },
+      {
+        "name": "sentence",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/-p/sentence"
+      },
+      {
+        "name": "story",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/-p/story"
+      }
+    ],
+    "-t": [
+      {
+        "name": "intro",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/-t/intro"
+      },
+      {
+        "name": "single",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/-t/single"
+      },
+      {
+        "name": "word",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/-t/word"
+      },
+      {
+        "name": "sentence",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/-t/sentence"
+      },
+      {
+        "name": "story",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/-t/story"
+      }
+    ],
+    "-k": [
+      {
+        "name": "intro",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/-k/intro"
+      },
+      {
+        "name": "single",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/-k/single"
+      },
+      {
+        "name": "word",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/-k/word"
+      },
+      {
+        "name": "sentence",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/-k/sentence"
+      },
+      {
+        "name": "story",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/-k/story"
+      }
+    ],
+    "-m": [
+      {
+        "name": "intro",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/-m/intro"
+      },
+      {
+        "name": "single",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/-m/single"
+      },
+      {
+        "name": "word",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/-m/word"
+      },
+      {
+        "name": "sentence",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/-m/sentence"
+      },
+      {
+        "name": "story",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/-m/story"
+      }
+    ],
+    "-n": [
+      {
+        "name": "intro",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/-n/intro"
+      },
+      {
+        "name": "single",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/-n/single"
+      },
+      {
+        "name": "word",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/-n/word"
+      },
+      {
+        "name": "sentence",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/-n/sentence"
+      },
+      {
+        "name": "story",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/-n/story"
+      }
+    ],
+    "-ng": [
+      {
+        "name": "intro",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/-ng/intro"
+      },
+      {
+        "name": "single",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/-ng/single"
+      },
+      {
+        "name": "word",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/-ng/word"
+      },
+      {
+        "name": "sentence",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/-ng/sentence"
+      },
+      {
+        "name": "story",
+        "url": "https://app.speakalongcuhk.com/tc/scontent/-ng/story"
+      }
+    ]
+  },
+  "robots": {
+    "requested_url": "https://app.speakalongcuhk.com/robots.txt",
+    "http_status_after_redirect": 200,
+    "content_type_after_redirect": "text/html; charset=UTF-8",
+    "published_robots_file_found": false,
+    "notes": "The endpoint redirects to the Traditional Chinese home page; no robots directives were exposed."
+  },
+  "observations": {
+    "data_transport": "Server-rendered HTML plus inline JavaScript configuration",
+    "audio_url_pattern_source": "Inline loadAudio JavaScript on each public activity page",
+    "audio_format": "MP3 (audio/mpeg)",
+    "lexical_metadata": "No textual character, word, Jyutping, or tone fields exposed; lexical content is conveyed by picture and audio.",
+    "multiple_recordings": "Each activity item has one numbered MP3; the same concept may occur in multiple activity types.",
+    "tone_information": "No tone category or explicit tone metadata exposed in the pronunciation navigation."
+  }
+}
