@@ -1,2 +1,6 @@
 node_modules/
+mobile/.expo/
+mobile/test-results/
+mobile/playwright-report/
+mobile/dist-*/
 dist/

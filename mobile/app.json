@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "粵語小聲音",
+    "slug": "little-cantonese-voices",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "edu.fyp.cantonesevoices"
+    },
+    "android": {
+      "package": "edu.fyp.cantonesevoices"
+    },
+    "plugins": [
+      [
+        "expo-audio",
+        {
+          "microphonePermission": "允許粵語小聲音使用麥克風錄音，聲音只會保留在你的裝置上。",
+          "enableBackgroundPlayback": false,
+          "enableBackgroundRecording": false
+        }
+      ],
+      "expo-status-bar",
+      "expo-font",
+      "expo-asset"
+    ],
+    "web": {
+      "bundler": "metro",
+      "name": "粵語小聲音"
+    }
+  }
+}
